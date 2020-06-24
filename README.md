@@ -6,4 +6,5 @@ Simple howtos for Developers, QA, Ops persons.
 
 - Azure DevOps
   - [Create a self-hosted agent](./azure-devops/self-hosted-agent.md)
-  
+- Concourse
+  - [Run Concourse CI on Ubuntu](concourse/ubuntu-host.md)
