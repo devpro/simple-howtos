@@ -70,5 +70,5 @@ You need to be administrator of the virtual machine (VM) that will be used to be
   - Copy agent zip file and extract it in `C:\Agent`
   - Download the agent file, unzip it and inside execute the command `config.cmd` (chose service)
   - Update agent capabilities
-- (Optional) Go to external systems (such as MongoDB Atlas)
-  - Add VM IP in system IP whitelist
+- (Optional) Go to external systems (such as MongoDB Atlas and Azure VM networking)
+  - Add VM IP in system IP allowed list
