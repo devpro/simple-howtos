@@ -61,7 +61,7 @@ You need to be administrator of the virtual machine (VM) that will be used to be
       - Execute bash
         - (Optional) Install [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 
-## Configuration steps on Windows
+### Configuration steps on Windows
 
 - Go to Azure DevOps, follow the [documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/v2-windows?view=azure-devops#check-prerequisites)
   - Create a new Personal Access Token
@@ -72,3 +72,7 @@ You need to be administrator of the virtual machine (VM) that will be used to be
   - Update agent capabilities
 - (Optional) Go to external systems (such as MongoDB Atlas and Azure VM networking)
   - Add VM IP in system IP allowed list
+
+## Additional resources
+
+- [github.com/aleguillen/azure-devops-self-hosted-agent](https://github.com/aleguillen/azure-devops-self-hosted-agent)
